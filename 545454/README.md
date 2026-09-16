@@ -9,6 +9,8 @@ coverY: 344.42659279778394
 
 #### Добро пожаловать в PalantiX. Этот мануал — не просто сборник схем, а фундамент вашей работы. Вся информация здесь получена в результате реальных операций, проверена на практике. Это база, которая отличает профессионалов от дилетантов. Изучите ее, и вы будете понимать правила игры .
 
-<div><figure><img src=".gitbook/assets/Снимок экрана 2026-02-28 021346.png" alt=""><figcaption></figcaption></figure> <figure><img src=".gitbook/assets/Снимок экрана 2026-02-28 021457.png" alt=""><figcaption></figcaption></figure></div>
+<figure><img src=".gitbook/assets/Снимок экрана 2026-02-28 021346.png" alt=""><figcaption></figcaption></figure>
 
 ВОТ ПРИМЕР ДЖОКЕР В АХУЕ СИДИТ КОГДА У НЕГО СПИЗДИЛИ БАБКИ И МНОГО ЧЕГО ДРУГОГО&#x20;
+
+<figure><img src=".gitbook/assets/Снимок экрана 2026-02-28 021457.png" alt=""><figcaption></figcaption></figure>
