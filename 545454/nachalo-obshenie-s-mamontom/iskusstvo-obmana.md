@@ -84,3 +84,4 @@ icon: hexagon-vertical-nft
   \
   ~~**БАЗА ФУЛЛ НАПИСАНА ( ВОЗЬМИ СЕБЯ В РУКИ ПОСЛЕ ПРОЧТЕНИЕ И СДЕЛАЙ ПОД СЕБЯ СВОЮ СХЕМУ ЗАВОДА !!!**~~
 
+<figure><img src="../.gitbook/assets/Снимок экрана 2026-02-07 041336.png" alt=""><figcaption></figcaption></figure>
