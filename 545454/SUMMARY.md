@@ -6,6 +6,7 @@
 
 * [Искусство обмана](nachalo-obshenie-s-mamontom/iskusstvo-obmana.md)
 * [Первый выстрел](nachalo-obshenie-s-mamontom/pervyi-vystrel.md)
+* [Карта охоты](nachalo-obshenie-s-mamontom/karta-okhoty.md)
 
 ## Zoom - work
 
@@ -15,7 +16,6 @@
 
 ## Guides
 
-* [Untitled](guides/untitled.md)
 * [Custom domains](guides/custom-domains.md)
 * [Automations](guides/automations.md)
 
