@@ -6,17 +6,16 @@
 
 * [Искусство обмана](nachalo-obshenie-s-mamontom/iskusstvo-obmana.md)
 * [Первый выстрел](nachalo-obshenie-s-mamontom/pervyi-vystrel.md)
-* [Работа по Zoom](nachalo-obshenie-s-mamontom/rabota-po-zoom.md)
 
-## Core concepts
+## Zoom - work
 
-* [Core concepts](core-concepts/core-concepts.md)
-* [Workspaces and projects](core-concepts/workspaces-and-projects.md)
-* [Permissions](core-concepts/permissions.md)
+* [Метод сотрудничества](zoom-work/metod-sotrudnichestva.md)
+* [Метод трудоустройства](zoom-work/metod-trudoustroistva.md)
+* [Метод по промоутерам](zoom-work/metod-po-promouteram.md)
 
 ## Guides
 
-* [Guides](guides/guides.md)
+* [Untitled](guides/untitled.md)
 * [Custom domains](guides/custom-domains.md)
 * [Automations](guides/automations.md)
 

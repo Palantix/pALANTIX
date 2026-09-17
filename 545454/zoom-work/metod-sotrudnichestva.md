@@ -7,7 +7,7 @@ layout:
   cover:
     visible: true
     size: full
-    mask: none
+    mask: radial
   title:
     visible: true
   description:
@@ -28,7 +28,7 @@ layout:
     visible: true
 ---
 
-# Работа по Zoom
+# Метод сотрудничества
 
 <figure><img src="../.gitbook/assets/Снимок экрана 2026-09-17 175145.png" alt=""><figcaption></figcaption></figure>
 
