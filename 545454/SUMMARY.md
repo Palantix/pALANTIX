@@ -16,7 +16,7 @@
 
 ## Guides
 
-* [Custom domains](guides/custom-domains.md)
+* [Если что то пошло не так](guides/esli-chto-to-poshlo-ne-tak.md)
 * [Automations](guides/automations.md)
 
 ## Reference

@@ -39,7 +39,7 @@ The process of turning your source code into deployable output. Each build produ
 
 <summary><strong>Custom domain</strong></summary>
 
-Your own domain (like `docs.yourcompany.com`) attached to a project, in place of the auto-generated subdomain. See [custom-domains.md](../guides/custom-domains.md "mention").
+Your own domain (like `docs.yourcompany.com`) attached to a project, in place of the auto-generated subdomain. See [esli-chto-to-poshlo-ne-tak.md](../guides/esli-chto-to-poshlo-ne-tak.md "mention").
 
 </details>
 
