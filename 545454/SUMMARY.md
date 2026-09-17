@@ -1,12 +1,12 @@
 # Table of contents
 
-* [PALANTIX -](README.md)
+* [PALANTIX](README.md)
 
 ## Начало общение с мамонтом !
 
 * [Искусство обмана](nachalo-obshenie-s-mamontom/iskusstvo-obmana.md)
 * [Первый выстрел](nachalo-obshenie-s-mamontom/pervyi-vystrel.md)
-* [Your first project](nachalo-obshenie-s-mamontom/your-first-project.md)
+* [Работа по Zoom](nachalo-obshenie-s-mamontom/rabota-po-zoom.md)
 
 ## Core concepts
 
