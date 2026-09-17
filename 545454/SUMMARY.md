@@ -4,8 +4,8 @@
 
 ## Начало общение с мамонтом !
 
-* [ИСКУССТВО ОБМАНА](nachalo-obshenie-s-mamontom/iskusstvo-obmana.md)
-* [ПЕРВЫЙ ВЫСТРЕЛ](nachalo-obshenie-s-mamontom/pervyi-vystrel.md)
+* [Искусство обмана](nachalo-obshenie-s-mamontom/iskusstvo-obmana.md)
+* [Первый выстрел](nachalo-obshenie-s-mamontom/pervyi-vystrel.md)
 * [Your first project](nachalo-obshenie-s-mamontom/your-first-project.md)
 
 ## Core concepts
