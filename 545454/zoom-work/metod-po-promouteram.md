@@ -1,6 +1,8 @@
 ---
 description: Старые легенды но все же еще рабочие .
 icon: expeditedssl
+cover: >-
+  ../.gitbook/assets/1680771837_kartinki-pibig-info-p-seroe-nebo-kartinki-arti-2.jpg
 coverY: 0
 layout:
   width: default
