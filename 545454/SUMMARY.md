@@ -19,3 +19,7 @@
 * [Если что то пошло не так](rezhim-sos/esli-chto-to-poshlo-ne-tak.md)
 * [Психология скамера](rezhim-sos/psikhologiya-skamera.md)
 * [Эволюция скамера](rezhim-sos/evolyuciya-skamera.md)
+
+## Магазины покупка аккаунтов
+
+* [Twiiter](magaziny-pokupka-akkauntov/twiiter.md)
