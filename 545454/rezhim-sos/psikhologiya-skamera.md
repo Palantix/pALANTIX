@@ -1,6 +1,6 @@
 ---
 description: Как думать а не что делать
-icon: gear
+icon: circle-info
 ---
 
 # Психология скамера

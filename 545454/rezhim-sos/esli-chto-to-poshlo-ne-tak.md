@@ -1,5 +1,5 @@
 ---
-icon: globe
+icon: circle-info
 ---
 
 # Если что то пошло не так

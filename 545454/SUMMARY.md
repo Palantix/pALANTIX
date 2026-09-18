@@ -18,9 +18,4 @@
 
 * [Если что то пошло не так](rezhim-sos/esli-chto-to-poshlo-ne-tak.md)
 * [Психология скамера](rezhim-sos/psikhologiya-skamera.md)
-
-## Reference
-
-* [Reference](reference/reference.md)
-* [Configuration](reference/configuration.md)
-* [Glossary](reference/glossary.md)
+* [Эволюция скамера](rezhim-sos/evolyuciya-skamera.md)
