@@ -1,5 +1,5 @@
 ---
-description: 'NOOOO RISK NO MONEYYYYYYYYYY  - 💲 Сумма выплат: $1,546,862'
+description: 'NOOOO RISK NO MONEYYYYYYYYYY  - 💲 Сумма выплат: $1,546,862  @PalantiX_bot'
 icon: expeditedssl
 cover: .gitbook/assets/VeniceAI_4MVrKMU_@4x.png
 coverY: 344.42659279778394
