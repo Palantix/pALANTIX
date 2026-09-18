@@ -22,4 +22,4 @@
 
 ## Магазины покупка аккаунтов
 
-* [Twiiter](magaziny-pokupka-akkauntov/twiiter.md)
+* [Store](magaziny-pokupka-akkauntov/store.md)
