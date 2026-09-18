@@ -10,17 +10,17 @@ description: >-
 
 {% stepper %}
 {% step %}
-### https://fbstore.ru/?cat\_id=26536
+### [https://fbstore.ru/?cat\_id=26536](twiiter.md#https-fbstore.ru-cat_id-26536)
 {% endstep %}
 
 {% step %}
-### https://zfxshop.biz/category/twitter
+### [https://zfxshop.biz/category/twitter](twiiter.md#https-zfxshop.biz-category-twitter)
 
 
 {% endstep %}
 
 {% step %}
-### https://gloa.top/en/?cat\_id=32848#cnt\_c
+### [https://gloa.top/en/?cat\_id=32848#cnt\_c](twiiter.md)
 
 
 {% endstep %}
