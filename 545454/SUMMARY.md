@@ -20,6 +20,6 @@
 * [Психология скамера](rezhim-sos/psikhologiya-skamera.md)
 * [Эволюция скамера](rezhim-sos/evolyuciya-skamera.md)
 
-## Магазины покупка аккаунтов
+## Магазины для покупки аккаунтов
 
-* [Store](magaziny-pokupka-akkauntov/store.md)
+* [Store](magaziny-dlya-pokupki-akkauntov/store.md)
