@@ -14,10 +14,10 @@
 * [Метод трудоустройства](zoom-work/metod-trudoustroistva.md)
 * [Метод по промоутерам](zoom-work/metod-po-promouteram.md)
 
-## Guides
+## Режим SOS
 
-* [Если что то пошло не так](guides/esli-chto-to-poshlo-ne-tak.md)
-* [Automations](guides/automations.md)
+* [Если что то пошло не так](rezhim-sos/esli-chto-to-poshlo-ne-tak.md)
+* [Психология скамера](rezhim-sos/psikhologiya-skamera.md)
 
 ## Reference
 
